@@ -1,0 +1,21 @@
+patient_id,name,gender,age,disease,department,doctor,admission_date,discharge_date,bill_amount
+P001,Arun Kumar,Male,45,Diabetes,Endocrinology,Dr. Rao,2024-01-10,2024-01-15,25000
+P002,Meera Singh,Female,32,Asthma,Pulmonology,Dr. Patel,2024-02-01,2024-02-03,12000
+P003,Ravi Sharma,Male,58,Hypertension,Cardiology,Dr. Iyer,2024-01-20,2024-01-27,48000
+P004,Lakshmi Nair,Female,41,Migraine,Neurology,Dr. Bose,2024-03-05,2024-03-08,18000
+P005,Sanjay Gupta,Male,63,Coronary Artery Disease,Cardiology,Dr. Menon,2024-02-12,2024-02-20,92000
+P006,Anita Desai,Female,29,Anemia,General Medicine,Dr. Verma,2024-01-18,2024-01-21,15000
+P007,Rohit Verma,Male,36,COVID-19,Pulmonology,Dr. Patel,2024-02-25,2024-03-05,67000
+P008,Sunita Yadav,Female,52,Chronic Kidney Disease,Nephrology,Dr. Singh,2024-01-30,2024-02-10,105000
+P009,Imran Ali,Male,47,Stroke,Neurology,Dr. Bose,2024-03-02,2024-03-12,88000
+P010,Neha Kapoor,Female,24,Appendicitis,General Surgery,Dr. Reddy,2024-02-08,2024-02-12,30000
+P011,Ajay Mishra,Male,55,Diabetes,Endocrinology,Dr. Rao,2024-01-05,2024-01-11,42000
+P012,Pooja Saxena,Female,38,Asthma,Pulmonology,Dr. Patel,2024-03-10,2024-03-13,16000
+P013,Manoj Kumar,Male,62,Hypertension,Cardiology,Dr. Iyer,2024-02-02,2024-02-09,53000
+P014,Shreya Sen,Female,31,Migraine,Neurology,Dr. Bose,2024-01-22,2024-01-24,14000
+P015,Vikram Joshi,Male,49,Coronary Artery Disease,Cardiology,Dr. Menon,2024-03-01,2024-03-09,99000
+P016,Kajal Mehta,Female,27,Anemia,General Medicine,Dr. Verma,2024-02-15,2024-02-18,13000
+P017,Prakash Rao,Male,60,COPD,Pulmonology,Dr. Patel,2024-01-28,2024-02-04,61000
+P018,Sapna Kulkarni,Female,45,Chronic Kidney Disease,Nephrology,Dr. Singh,2024-03-04,2024-03-15,112000
+P019,Ashok Jain,Male,53,Stroke,Neurology,Dr. Bose,2024-02-20,2024-03-01,91000
+P020,Ritu Malhotra,Female,35,Appendicitis,General Surgery,Dr. Reddy,2024-01-12,2024-01-16,28000
